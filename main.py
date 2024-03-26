@@ -1,5 +1,5 @@
 print("Hello world")
 print("Khit")
 print("read novel")
-
-print("Student")
+print("My favorite music genre is Jazz.")
+print("My favorite music genre is Jazz.")
