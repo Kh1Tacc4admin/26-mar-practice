@@ -3,3 +3,4 @@ print("Khit")
 print("read novel")
 
 print("Student")
+print("Soccer")
