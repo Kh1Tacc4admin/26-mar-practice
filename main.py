@@ -6,4 +6,3 @@ print("Student")
 print("Soccer")
 print("My favorite music genre is Jazz.")
 
-print("My favorite color is black")
